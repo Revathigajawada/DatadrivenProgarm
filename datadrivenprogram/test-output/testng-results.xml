@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Verify Login Passed]]>
+    </line>
+    <line>
+      <![CDATA[Add Emp Passed!]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53563" started-at="2019-04-15T13:44:34Z" finished-at="2019-04-15T13:45:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53563" started-at="2019-04-15T13:44:34Z" finished-at="2019-04-15T13:45:27Z">
+      <class name="datadriven123.Testng">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:datadriven123.Testng@1474c6c]" name="openBrowser" is-config="true" duration-ms="16081" started-at="2019-04-15T19:14:34Z" finished-at="2019-04-15T19:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:datadriven123.Testng@1474c6c]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-04-15T19:14:50Z" finished-at="2019-04-15T19:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:0, instance:datadriven123.Testng@1474c6c]" name="login" is-config="true" duration-ms="5045" started-at="2019-04-15T19:14:50Z" finished-at="2019-04-15T19:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:datadriven123.Testng@1474c6c]" name="editEmp" duration-ms="117" started-at="2019-04-15T19:14:55Z" finished-at="2019-04-15T19:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:datadriven123.Testng@1474c6c]" name="logout" is-config="true" duration-ms="562" started-at="2019-04-15T19:14:55Z" finished-at="2019-04-15T19:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:datadriven123.Testng@1474c6c]" name="login" is-config="true" duration-ms="3838" started-at="2019-04-15T19:14:56Z" finished-at="2019-04-15T19:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:datadriven123.Testng@1474c6c]" name="verifyLogin" duration-ms="15" started-at="2019-04-15T19:14:59Z" finished-at="2019-04-15T19:14:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Verify Login Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:datadriven123.Testng@1474c6c]" name="logout" is-config="true" duration-ms="439" started-at="2019-04-15T19:14:59Z" finished-at="2019-04-15T19:15:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:datadriven123.Testng@1474c6c]" name="login" is-config="true" duration-ms="3832" started-at="2019-04-15T19:15:00Z" finished-at="2019-04-15T19:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="addEmp()[pri:1, instance:datadriven123.Testng@1474c6c]" name="addEmp" duration-ms="22955" started-at="2019-04-15T19:15:04Z" finished-at="2019-04-15T19:15:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Add Emp Passed!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:datadriven123.Testng@1474c6c]" name="logout" is-config="true" duration-ms="543" started-at="2019-04-15T19:15:27Z" finished-at="2019-04-15T19:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:datadriven123.Testng@1474c6c]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-04-15T19:15:27Z" finished-at="2019-04-15T19:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:datadriven123.Testng@1474c6c]" name="closeBrowser" is-config="true" duration-ms="99" started-at="2019-04-15T19:15:27Z" finished-at="2019-04-15T19:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- datadriven123.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
